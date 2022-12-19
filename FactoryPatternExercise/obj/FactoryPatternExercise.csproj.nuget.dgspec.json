@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Extre\\source\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj": {}
+    "C:\\Users\\Extre\\OneDrive\\Desktop\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Extre\\source\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj": {
+    "C:\\Users\\Extre\\OneDrive\\Desktop\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Extre\\source\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Extre\\OneDrive\\Desktop\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj",
         "projectName": "FactoryPatternExercise",
-        "projectPath": "C:\\Users\\Extre\\source\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj",
+        "projectPath": "C:\\Users\\Extre\\OneDrive\\Desktop\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj",
         "packagesPath": "C:\\Users\\Extre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Extre\\source\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\obj\\",
+        "outputPath": "C:\\Users\\Extre\\OneDrive\\Desktop\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Extre\\AppData\\Roaming\\NuGet\\NuGet.Config",
